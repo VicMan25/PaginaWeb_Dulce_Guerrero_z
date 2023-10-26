@@ -1,27 +1,29 @@
 # Título del Proyecto
+Página Oficial Dulce_Guerrero'z
 
 ## Desarrollo de Sitio Web con Bootstrap, CSS y HTML
+Principalmente HTML
 
 ---
 
 ## Propósito del Sitio
 
-Breve descripción del propósito y objetivo del sitio web que has desarrollado.
+Trabajo final de tercer corte (Cloud Computing I) donde se demuestra la importancia del trabajo en equipo y todo lo aprendido en el transcurso de este semestre.
 
 ---
 
 ## Herramientas Utilizadas
 
-- **Bootstrap**: Framework de CSS para el diseño del sitio.
-- **CSS**: Lenguaje de estilo utilizado para personalizar el diseño.
-- **HTML**: Lenguaje de marcado para la estructura del sitio.
+- **Plantilla de Base HTML**
+- **Visual Studio Code**
+- **GitHub** 
 
 ---
 
 ## Integrantes
-- **Nombre del Estudiante 1**
-- **Nombre del Estudiante 2**
-- **Nombre del Estudiante 3**
+- **Valentina Alvarez Solarte**
+- **Carlos Quenan Alderete**
+- **Victor Velasquez Benavides**
 
 ---
 
@@ -30,10 +32,11 @@ Breve descripción del propósito y objetivo del sitio web que has desarrollado.
 ### Requisitos Previos
 
 - Navegador web (como Chrome o Firefox)
+- Acceso a una red de internet
+- Aplicación: Visual Studio Code en el dispositivo
 
 ### Instalación
 
 1. Clona este repositorio en tu máquina local utilizando Git:
 
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/VicMan25/TrabajoFinal.git

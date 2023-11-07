@@ -8,13 +8,15 @@ Principalmente HTML
 
 ## Propósito del Sitio
 
-Trabajo final de tercer corte (Cloud Computing I) donde se demuestra la importancia del trabajo en equipo y todo lo aprendido en el transcurso de este semestre.
+Página promocional para la empresa Dulce_Guerrero'z, la cual se encuentra situada en la ciudad de Sandoná-Nariño, con fines de dar a conocer los difentes productos que ofrencen, al igual que las opiniones recibidas por sus cliente y su historia en una interfaz amigable, sutil y de fácil uso.
 
 ---
 
 ## Herramientas Utilizadas
 
-- **Plantilla de Base HTML**
+- **Bootstrap**
+- **CSS** 
+- **HTML**
 - **Visual Studio Code**
 - **GitHub** 
 

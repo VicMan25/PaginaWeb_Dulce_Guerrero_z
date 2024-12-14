@@ -9599,10 +9599,10 @@
   .menu-price {
     position: absolute;
     margin: 0;
-    top: -5px;
-    right: 10px;
-    width: 45px;
-    height: 45px;
+    top: -32px;
+    right: -10px;
+    width: 60px;
+    height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
